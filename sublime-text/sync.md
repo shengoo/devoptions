@@ -6,7 +6,7 @@
 ```C:\Users\[YourName]\AppData\Roaming\Sublime Text 3\Packages```
 
 **mac:**
-```/Library/Application\ Support/Sublime\ Text\ 2/Packages/```
+```/Library/Application\ Support/Sublime\ Text\ 3/Packages/```
 
 **linux:**
 
