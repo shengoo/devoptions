@@ -25,12 +25,13 @@ git push origin master
 ```
 cd [package folder]
 mv User User.old
-git clone git@github.com:jive/sublimesettings.git User
+git clone [your git repo] User
 ```
 
 ## update settings from one of the machines
 ```
 cd [package folder]/User
+git add -A
 git commit -m "Update settings"
 git push
 ```
