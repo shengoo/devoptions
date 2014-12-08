@@ -11,6 +11,19 @@
 **linux:**
 
 
+## files that should be ignored
+
+**add following into your .gitignore file**
+
+```
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+```
+
 ## on first machine
 
 ```
