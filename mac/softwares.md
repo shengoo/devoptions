@@ -41,11 +41,47 @@ http://pinyin.sogou.com/mac/
 http://cord.sourceforge.net/
 
 ### Dropbox
+网盘
 
 https://www.dropbox.com/install
 
 ### Evernote
+笔记工具
+
+### FileZilla
+ftp工具
+
+### GibHub
+
+### Google Chrome
+浏览器
+
+### iTerm
+终端
+
+### OneNote
+
+### SmartSVN
+svn客户端，可免费使用
+
+### Spectacle
+免费的分屏软件
+
+### Sublime Text
+文本编辑器
+
+### TeamViewer
+远程计算机管理
 
 ## develop tool
 
 ### Android Studio
+开发Android必备
+
+### XCode
+开发ios必备
+
+### Eclipe
+
+### WebStorm
+web开发最强大工具
