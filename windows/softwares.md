@@ -26,7 +26,7 @@
 
 ### android studio
 
-### visula studio
+### visual studio
 
 ### webstorm
 
